@@ -9,7 +9,7 @@
     </head>
     <body>
         <div id="hmenu"> 
-		<?php include "menu.php";?>   
+		<?php include "menu.php" ; ?>   
         </div>        
         <div class="center">
             <p><h1>Tomb of the Unknown Revolutionary War Soldier</h1></p>
